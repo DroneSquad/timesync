@@ -1,0 +1,26 @@
+{
+  "name": "timesync",
+  "description": "Time synchronization between peers",
+  "main": "./dist/timesync.min.js",
+  "authors": [
+    "Jos de Jong <wjosdejong@gmail.com> (https://github.com/josdejong)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "time",
+    "synchronization",
+    "ntp",
+    "client",
+    "server",
+    "isomorphic"
+  ],
+  "homepage": "https://github.com/DroneSquad/timesync",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
